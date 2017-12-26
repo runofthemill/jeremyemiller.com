@@ -68,8 +68,8 @@ require = (function (modules, cache, entry) {
 
   // Override the current require with this new one
   return newRequire;
-})({11:[function(require,module,exports) {
+})({6:[function(require,module,exports) {
 
-},{"./../img/background.jpg":["953c45ad3dbf9254cefc03694b575406.jpg",13]}],7:[function(require,module,exports) {
+},{"./../img/background.jpg":["953c45ad3dbf9254cefc03694b575406.jpg",8]}],2:[function(require,module,exports) {
 "use strict";require("../src/main.scss");
-},{"../src/main.scss":11}]},{},[7])
+},{"../src/main.scss":6}]},{},[2])
